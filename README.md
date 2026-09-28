@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="banner.png" alt="Muhammed Keleş" width="100%">
+</div>
+
 # Hi, I'm Muhammed Keleş 👋
 
 Final-year Statistics student at Hacettepe University (Ankara, Türkiye),
