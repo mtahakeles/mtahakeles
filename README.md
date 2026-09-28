@@ -20,7 +20,7 @@ ideas on my own content projects.
 
 ## Skills
 - **Data & analysis:** Python (pandas), R, SQL, Excel, Power BI, SPSS
-- **Marketing & automation:** n8n, ManyChat, Canva, CapCut
+- **Marketing & automation:** n8n, ManyChat, Claude Code
 - **AI creative tools:** Midjourney, DALL-E, HeyGen, Luma, Kling, Veo
 
 ## Contact
