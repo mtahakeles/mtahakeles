@@ -15,9 +15,9 @@ ideas on my own content projects.
 - **Marketing automation** – built workflows with n8n and ManyChat.
 
 ## Skills
-**Data & analysis:** Python (pandas), R, SQL, Excel, Power BI, SPSS
-**Marketing & automation:** n8n, ManyChat, Canva, CapCut
-**AI creative tools:** Midjourney, DALL-E, HeyGen, Luma, Kling, Veo
+- **Data & analysis:** Python (pandas), R, SQL, Excel, Power BI, SPSS
+- **Marketing & automation:** n8n, ManyChat, Canva, CapCut
+- **AI creative tools:** Midjourney, DALL-E, HeyGen, Luma, Kling, Veo
 
 ## Contact
 📧 emuhammedkeles@gmail.com
