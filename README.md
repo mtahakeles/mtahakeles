@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Muhammed Keleş 👋
 
-<!--
-**mtahakeles/mtahakeles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Statistics student at Hacettepe University (Ankara, Türkiye),
+interested in marketing and growth. I use statistics and data analysis to
+understand customers, content performance and funnels, and I test those
+ideas on my own content projects.
 
-Here are some ideas to get you started:
+## Marketing experience
+- **Marketing intern, BlueSense** – worked on positioning, promotion
+  strategy and content creation for the Smart Beauty mobile app
+  (short-term internship).
+- **Content & digital products** – run faceless Instagram, TikTok and
+  YouTube theme pages built around short-form video (Reels/Shorts) trends,
+  and sell digital products through them.
+- **Marketing automation** – built workflows with n8n and ManyChat.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+**Data & analysis:** Python (pandas), R, SQL, Excel, Power BI, SPSS
+**Marketing & automation:** n8n, ManyChat, Canva, CapCut
+**AI creative tools:** Midjourney, DALL-E, HeyGen, Luma, Kling, Veo
+
+## Contact
+📧 emuhammedkeles@gmail.com
+🔗 [LinkedIn](https://www.linkedin.com/in/muhammed-keles)
