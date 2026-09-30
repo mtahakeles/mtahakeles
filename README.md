@@ -21,7 +21,7 @@ ideas on my own content projects.
 ## Skills
 - **Data & analysis:** Python (pandas), R, SQL, Excel, Power BI, SPSS
 - **Marketing & automation:** n8n, ManyChat, Claude Code
-- **AI creative tools:** Midjourney, DALL-E, HeyGen, Luma, Kling, Veo
+- **AI creative tools:** HeyGen, Luma, Kling, Veo, Seedance
 
 ## Contact
 📧 emuhammedkeles@gmail.com
