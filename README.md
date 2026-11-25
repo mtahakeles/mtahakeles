@@ -1,28 +1,17 @@
-<div align="center">
-  <img src="banner.png" alt="Muhammed Keleş" width="100%">
-</div>
+<img src="banner.png" alt="Muhammed Keleş" width="100%">
 
-# Hi, I'm Muhammed Keleş 👋
+### Hi, I'm Muhammed
 
-Final-year Statistics student at Hacettepe University (Ankara, Türkiye),
-interested in marketing and growth. I use statistics and data analysis to
-understand customers, content performance and funnels, and I test those
-ideas on my own content projects.
+I'm a final-year Statistics student at Hacettepe University in Ankara. I'm interested in the questions growth and marketing teams ask (who to target, what a campaign actually changed, where a funnel leaks) and in answering them with proper statistics instead of dashboards alone.
 
-## Marketing experience
-- **Marketing intern, BlueSense** – worked on positioning, promotion
-  strategy and content creation for the Smart Beauty mobile app
-  (short-term internship).
-- **Content & digital products** – run faceless Instagram, TikTok and
-  YouTube theme pages built around short-form video (Reels/Shorts) trends,
-  and sell digital products through them.
-- **Marketing automation** – built workflows with n8n and ManyChat.
+**Projects**
 
-## Skills
-- **Data & analysis:** Python (pandas), R, SQL, Excel, Power BI, SPSS
-- **Marketing & automation:** n8n, ManyChat, Claude Code
-- **AI creative tools:** HeyGen, Luma, Kling, Veo, Seedance
+- [**Cart recovery: who should get the discount?**](https://github.com/mtahakeles/sepet-terk-donusum-tahmini) Uplift modelling on a simulated A/B test. Targeting by predicted uplift beats "send it to likely buyers", which loses money.
+- [**Decision Decay**](https://github.com/mtahakeles/decision-decay) Do footballers pass worse late in games? Mixed-effects logistic regression on 56k World Cup passes says no: the raw drop comes from the pass mix. (Python + R)
+- [**Habitat Sentinel**](https://github.com/mtahakeles/habitat-sentinel) Live NASA wildfire map plus a small risk model served in the browser. Hackathon project.
 
-## Contact
-📧 emuhammedkeles@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/muhammed-keles)
+**Tools:** Python (pandas, scikit-learn, statsmodels), R (tidyverse, lme4), SQL, Excel, Power BI, SPSS
+
+**Outside the classroom:** I interned in marketing at BlueSense (positioning and content for a mobile app), I run a few short-form video pages on Instagram, TikTok and YouTube, and I build marketing automations with n8n and ManyChat. That's where most of my questions come from.
+
+📫 emuhammedkeles@gmail.com · [LinkedIn](https://www.linkedin.com/in/muhammed-keles)
